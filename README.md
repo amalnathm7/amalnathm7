@@ -27,6 +27,11 @@ ___
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=4597ce)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Dart)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
 
+![CSS](https://img.shields.io/badge/C-EXPERT-orange)
+![CSS](https://img.shields.io/badge/JAVA-EXPERT-orange)
+![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
+![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
+
 ### Technologies
 
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
@@ -39,6 +44,8 @@ ___
 ### Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
 ___
 
 ### Repositories
@@ -61,14 +68,4 @@ ___
 <a href="https://github.com/amalnathm7/memoir_rest_api_v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir_rest_api_v1" />
 </a>
-
-___
-
-![CSS](https://img.shields.io/badge/C-EXPERT-orange)
-![CSS](https://img.shields.io/badge/JAVA-EXPERT-orange)
-![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
-![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
 ___
