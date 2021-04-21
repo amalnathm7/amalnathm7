@@ -9,6 +9,8 @@ _Contact Me :_ <a href="https://www.linkedin.com/in/amal-nath-m-1ba12a192/"><img
 <a href="https://www.instagram.com/_a_m_a_l_n_a_t_h_/"><img src = "https://avatars3.githubusercontent.com/u/549085?s=200&v=4" width=20px height=20px></a>
 ___
 
+### Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=amalnathm7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
@@ -34,30 +36,29 @@ ___
 
 ___
 
-<a href="https://github.com/Dinoy-Raj/SpeechToTextApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=SpeechToTextApp" />
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=SpeechToTextApp" />
 </a>
-<a href="https://github.com/Dinoy-Raj/anonymousapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Acheckerapp" />
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Acheckerapp" />
 </a>
-<a href="https://github.com/Dinoy-Raj/Neumorphic_Example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Neumorphic_Example" />
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Neumorphic_Example" />
 </a>
-<a href="https://github.com/Dinoy-Raj/FlutterLoginScreens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=FlutterLoginScreens" />
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=FlutterLoginScreens" />
 </a>
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Covid-19-Tracker" />
 </a>
-<a href="https://github.com/Dinoy-Raj/Covid-19-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Covid-19-Tracker" />
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Covid19App" />
 </a>
-<a href="https://github.com/Dinoy-Raj/Covid19App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=Covid19App" />
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=TruthOrDareApp" />
 </a>
-<a href="https://github.com/Dinoy-Raj/TruthOrDareApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=TruthOrDareApp" />
-</a>
-<a href="https://github.com/Dinoy-Raj/pongame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinoy-Raj&&theme=radical&repo=pongame" />
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=pongame" />
 </a>
 
 ___
