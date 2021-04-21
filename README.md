@@ -36,11 +36,11 @@ ___
 
 ___
 
-<a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Bingo" />
-</a>
 <a href="https://github.com/amalnathm7/Memoir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Memoir" />
+</a>
+<a href="https://github.com/amalnathm7/Bingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Bingo" />
 </a>
 <a href="https://github.com/amalnathm7/Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Calculator" />
