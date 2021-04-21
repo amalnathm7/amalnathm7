@@ -73,10 +73,12 @@ ___
 
 ### Current Projects
 
-_Referl.in_ - O2O Marketting Application
+1. _Referl.in_ - O2O Marketting Application
 
-_My Portfolio_ - Using Flutter Web
+2. _My Portfolio_ - Using Flutter Web
+
 #
+
 ![CSS](https://img.shields.io/badge/Referl-88.5-green)
 ![CSS](https://img.shields.io/badge/Portfolio-0-grey)
 ___
