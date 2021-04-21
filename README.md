@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/followers/amalnathm7?style=flat-square)
 ![](https://img.shields.io/github/stars/amalnathm7?style=flat-square)
 
-_Contact Me:_ 
+_Contact Me:_
 
 <a href="https://www.linkedin.com/in/amal-nath-m-1ba12a192/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20px height=20px></a>
 <a href="https://twitter.com/amalnathm7"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=20px height=20px></a>
