@@ -69,7 +69,7 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir_rest_api_v1" />
 </a>
 <a href="https://github.com/amalnathm7/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=portfolio" />
 </a>
 
 ___
