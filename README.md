@@ -37,30 +37,23 @@ ___
 ___
 
 <a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=SpeechToTextApp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Bingo" />
 </a>
-<a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Acheckerapp" />
+<a href="https://github.com/amalnathm7/Memoir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Memoir" />
 </a>
-<a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Neumorphic_Example" />
+<a href="https://github.com/amalnathm7/Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Calculator" />
 </a>
-<a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=FlutterLoginScreens" />
+<a href="https://github.com/amalnathm7/Bmi_calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Bmi_calculator" />
 </a>
-<a href="https://github.com/amalnathm7/Bingo">
+<a href="https://github.com/amalnathm7/Covid-19-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Covid-19-Tracker" />
 </a>
-<a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Covid19App" />
+<a href="https://github.com/amalnathm7/memoir_rest_api_v1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir_rest_api_v1" />
 </a>
-<a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=TruthOrDareApp" />
-</a>
-<a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=pongame" />
-</a>
-
 ___
 
 ![HTML](https://img.shields.io/badge/JAVA-EXPERT-orange)
