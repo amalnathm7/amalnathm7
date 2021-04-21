@@ -72,8 +72,8 @@ ___
 
 ### Current Projects
 
-_Referl - O2O Marketting Application_
+_Referl.in - O2O Marketting Application_
 
-_Portfolio website - Using Flutter web_
+_My Portfolio - Using Flutter Web_
 
 ___
