@@ -8,7 +8,7 @@
 
 
 
-Contact Me:   <a href="https://www.linkedin.com/in/amal-nath-m-1ba12a192/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20px height=20px></a>
+_Contact Me: <a href="https://www.linkedin.com/in/amal-nath-m-1ba12a192/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20px height=20px></a>
 <a href="https://twitter.com/amalnathm7"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=20px height=20px></a>
 <a href="https://www.instagram.com/_a_m_a_l_n_a_t_h_/"><img src = "https://avatars3.githubusercontent.com/u/549085?s=200&v=4" width=20px height=20px></a>
 ___
