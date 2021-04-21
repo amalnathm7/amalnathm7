@@ -36,30 +36,17 @@ ___
 
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?&logo=TensorFlow&logoColor=000)
-![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=000&theme=radical)
-
-
-
-
-
-
-
-
-
-
-
-
+![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
 ___
 
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinoy-Raj&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoy-Raj&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/Dinoy-Raj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
 
 ___
 
@@ -95,5 +82,3 @@ ___
 
 ![HTML](https://img.shields.io/badge/JAVA-EXPERT-orange)
 ![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
-![JavaScript](https://img.shields.io/badge/PYTHON-INTERMEDIATE-brightgreen)
-![TypeScript](https://img.shields.io/badge/HTML-INTERMEDIATE-yellow)
