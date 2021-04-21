@@ -39,9 +39,6 @@ ___
 ### Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
-
 ___
 
 ### Repositories
@@ -72,4 +69,6 @@ ___
 ![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
 ___
