@@ -36,11 +36,15 @@ ___
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
 ___
 
+### Github Stats
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
 
 ___
+
+### Repositories
 
 <a href="https://github.com/amalnathm7/Memoir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Memoir" />
