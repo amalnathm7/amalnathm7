@@ -39,11 +39,11 @@ ___
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
-
 ![](https://komarev.com/ghpvc/?username=amalnathm7&color=010040&style=flat-square)
 ![](https://img.shields.io/github/followers/amalnathm7?style=flat-square)
 ![](https://img.shields.io/github/stars/amalnathm7?style=flat-square)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
 
