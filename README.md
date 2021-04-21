@@ -34,9 +34,10 @@ ___
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
+![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
+![JavaFX](https://img.shields.io/badge/-JavaFX-fff?&logo=javafx&logoColor=000)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ___
 
 
