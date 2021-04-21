@@ -51,19 +51,19 @@ ___
 ### Repositories
 
 <a href="https://github.com/amalnathm7/Memoir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Memoir" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
 </a>
 <a href="https://github.com/amalnathm7/Bingo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Bingo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bingo" />
 </a>
 <a href="https://github.com/amalnathm7/Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Calculator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=calculator" />
 </a>
 <a href="https://github.com/amalnathm7/Bmi_calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bmi_calculator" />
 </a>
 <a href="https://github.com/amalnathm7/Covid-19-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Covid-19-Tracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=covid-19-Tracker" />
 </a>
 <a href="https://github.com/amalnathm7/memoir_rest_api_v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir_rest_api_v1" />
