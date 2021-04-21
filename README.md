@@ -67,10 +67,13 @@ ___
 <a href="https://github.com/amalnathm7/memoir_rest_api_v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir_rest_api_v1" />
 </a>
+
 ___
 
 ### Current Projects
 
 _Referl - O2O Marketting Application_
+
 _Portfolio website - Using Flutter web_
+
 ___
