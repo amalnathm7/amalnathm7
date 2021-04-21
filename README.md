@@ -26,11 +26,13 @@ ___
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=f89820)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Java)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=4597ce)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Dart)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
+[![C++](https://img.shields.io/badge/-C++-fff?&logo=C++)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C++)
 
 ![CSS](https://img.shields.io/badge/C-EXPERT-orange)
 ![CSS](https://img.shields.io/badge/JAVA-EXPERT-orange)
 ![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
+![CSS](https://img.shields.io/badge/C++-BEGINNER-green)
 
 ### Technologies
 
