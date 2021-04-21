@@ -18,7 +18,7 @@ ___
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Java)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=007396)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Dart)
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=00ff00)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=093100)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
 
 ### Technologies
 
