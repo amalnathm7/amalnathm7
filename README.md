@@ -1,5 +1,9 @@
 ### Hey there... Myself, Amal Nath 😉
 
+I'm an undergraduate at TKM College of Engineering, Kollam. Given below are some of my works.
+
+
+
 ![](https://komarev.com/ghpvc/?username=amalnathm7&color=010040&style=flat-square)
 ![](https://img.shields.io/github/followers/amalnathm7?style=flat-square)
 ![](https://img.shields.io/github/stars/amalnathm7?style=flat-square)
