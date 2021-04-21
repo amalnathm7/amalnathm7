@@ -8,6 +8,18 @@ _Ping me at:_
 <a href="https://www.instagram.com/_a_m_a_l_n_a_t_h_/"><img src = "https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png" width=20px height=20px></a>
 ___
 
+### Github Stats
+
+![](https://komarev.com/ghpvc/?username=amalnathm7&color=010040&style=flat-square)
+![](https://img.shields.io/github/followers/amalnathm7?style=flat-square)
+![](https://img.shields.io/github/stars/amalnathm7?style=flat-square)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
+
+___
+
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amalnathm7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
@@ -33,18 +45,6 @@ ___
 ![JavaFX](https://img.shields.io/badge/-JavaFX-fff?&logo=Java&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase&logoColor=000)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
-___
-
-### Github Stats
-
-![](https://komarev.com/ghpvc/?username=amalnathm7&color=010040&style=flat-square)
-![](https://img.shields.io/github/followers/amalnathm7?style=flat-square)
-![](https://img.shields.io/github/stars/amalnathm7?style=flat-square)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
-
 ___
 
 ### Repositories
