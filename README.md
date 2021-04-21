@@ -1,5 +1,5 @@
 ### Hey there... Myself, Amal Nath
-I'm an undergraduate at TKM College of Engineering, Kollam. Kindly mention or ping me if you want to know more about me. 😉
+_I'm an undergraduate at TKM College of Engineering, Kollam. Kindly ping me if you want to know more about me. 😉
 
 
 
