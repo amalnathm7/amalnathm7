@@ -59,16 +59,16 @@ ___
 <a href="https://github.com/amalnathm7/Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Calculator" />
 </a>
-
+<a href="https://github.com/amalnathm7/Bmi_calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Bmi_calculator" />
+</a>
 <a href="https://github.com/amalnathm7/Covid-19-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Covid-19-Tracker" />
 </a>
 <a href="https://github.com/amalnathm7/memoir_rest_api_v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir_rest_api_v1" />
 </a>
-<a href="https://github.com/amalnathm7/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=Portfolio" />
-</a>
+
 
 ___
 
