@@ -1,5 +1,5 @@
 ### Hey there... Myself, Amal Nath
-_I'm an undergraduate at TKM College of Engineering, Kollam. Kindly ping me if you want to know more about me._ 😉
+_I'm a CSE undergraduate at TKM College of Engineering, Kollam. I like to code and design solutions to real world problems. I'm currently building a FLutter application for Referl.in. I've also made some projects in Android, JavaFX, etc. Kindly ping me if you want to know more about me._ 😉
 
 
 
