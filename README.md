@@ -33,11 +33,17 @@ ___
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=f89820)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Java)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=4597ce)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Dart)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
+[![HTML](https://img.shields.io/badge/-HTML-fff?&logo=hypertextmarkuplanguage&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=HTML)
+[![CSS](https://img.shields.io/badge/-CSS-fff?&logo=cascadingstylesheet&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&logoColor=f0db4f)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=JavaScript)
 
 ![CSS](https://img.shields.io/badge/C-EXPERT-orange)
 ![CSS](https://img.shields.io/badge/JAVA-EXPERT-orange)
 ![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
+![CSS](https://img.shields.io/badge/HTML-BEGINNER-green)
+![CSS](https://img.shields.io/badge/CSS-BEGINNER-green)
+![CSS](https://img.shields.io/badge/JAVASCRIPT-BEGINNER-green)
 
 ### Technologies
 
