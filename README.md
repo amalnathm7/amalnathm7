@@ -29,7 +29,7 @@ ___
 
 ### Languages
 
-[![C](https://img.shields.io/badge/-C-fff?&logo=C&logoColor=ADD8E6)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C)
+[![C](https://img.shields.io/badge/-C-fff?&logo=C&logoColor=4169E1)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=f89820)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Java)
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=C&logoColor=276dc2)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C++)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=4597ce)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Dart)
