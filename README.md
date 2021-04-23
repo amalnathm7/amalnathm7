@@ -80,7 +80,7 @@ ___
 
 1. _Referl_ - O2O Marketting Application (www.referl.in)
 
-2. _My Portfolio_ - To be launched soon (_)
+2. _My Portfolio_ - To be launched soon (www.amalnathm7.github.io)
 
 #### Status
 
