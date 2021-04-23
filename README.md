@@ -70,8 +70,8 @@ ___
 <a href="https://github.com/amalnathm7/Bmi_calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bmi_calculator" />
 </a>
-<a href="https://github.com/amalnathm7/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=portfolio" />
+<a href="https://github.com/amalnathm7/amalnathm7.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=amalnathm7.github.io" />
 </a>
 
 ___
