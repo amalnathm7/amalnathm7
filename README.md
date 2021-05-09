@@ -59,10 +59,10 @@ ___
 ### My Repositories
 
 <a href="https://github.com/amalnathm7/Memoir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
 </a>
 <a href="https://github.com/amalnathm7/Memoir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
 </a>
 <a href="https://github.com/amalnathm7/Bingo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bingo" />
