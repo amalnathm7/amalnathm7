@@ -59,6 +59,9 @@ ___
 ### My Repositories
 
 <a href="https://github.com/amalnathm7/Memoir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
+</a>
+<a href="https://github.com/amalnathm7/Memoir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
 </a>
 <a href="https://github.com/amalnathm7/Bingo">
@@ -82,8 +85,11 @@ ___
 
 2. _My Portfolio_ - To be launched soon (https://amalnathm7.github.io)
 
+3. _Google Meet Clone_ - Clone of Google Meet
+
 #### Status
 
 ![CSS](https://img.shields.io/badge/Referl-88.5-green)
-![CSS](https://img.shields.io/badge/Portfolio-92-green)
+![CSS](https://img.shields.io/badge/Portfolio-98-green)
+![CSS](https://img.shields.io/badge/Portfolio-3-red)
 ___
