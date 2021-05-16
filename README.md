@@ -83,9 +83,9 @@ ___
 
 1. _Referl_ - O2O Marketting Application (www.referl.in)
 
-2. _My Portfolio_ - To be launched soon (https://amalnathm7.github.io)
+2. _Portfolio_ - My personal portfolio website (https://amalnathm7.github.io)
 
-3. _Google Meet Clone_ - Clone of Google Meet
+3. _Gmeet_ - Clone of Google Meet
 
 #### Status
 
