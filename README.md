@@ -58,7 +58,7 @@ ___
 
 ### My Repositories
 
-<a href="https://github.com/amalnathm7/Memoir">
+<a href="https://github.com/amalnathm7/Google-meet-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
 </a>
 <a href="https://github.com/amalnathm7/Memoir">
