@@ -91,5 +91,5 @@ ___
 
 ![CSS](https://img.shields.io/badge/Referl-88.5-green)
 ![CSS](https://img.shields.io/badge/Portfolio-98-green)
-![CSS](https://img.shields.io/badge/Gmeet-30-orange)
+![CSS](https://img.shields.io/badge/Gmeet-65-orange)
 ___
