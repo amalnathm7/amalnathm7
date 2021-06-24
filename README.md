@@ -89,7 +89,7 @@ ___
 
 #### Status
 
-![CSS](https://img.shields.io/badge/Referl-88.5-green)
-![CSS](https://img.shields.io/badge/Portfolio-98-green)
-![CSS](https://img.shields.io/badge/Gmeet-75-orange)
+![CSS](https://img.shields.io/badge/Referl-90-green)
+![CSS](https://img.shields.io/badge/Portfolio-95-green)
+![CSS](https://img.shields.io/badge/Gmeet-90-green)
 ___
