@@ -89,7 +89,7 @@ ___
 
 3. _Gmeet_ - Clone of Google Meet
 
-#### Status
+#### Progress
 
 ![CSS](https://img.shields.io/badge/Do_It-95-green)
 ![CSS](https://img.shields.io/badge/Referl-90-green)
