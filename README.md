@@ -9,7 +9,7 @@ _Ping me at:_
 <a href="https://www.instagram.com/_a_m_a_l_n_a_t_h_/"><img src = "https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png" width=25px height=25px></a>
 
 _My portfolio:_ 
-# https://amalnathm7.github.io
+### https://amalnathm7.github.io
 ___
 
 ### Github Stats
