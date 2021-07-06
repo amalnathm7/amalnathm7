@@ -83,15 +83,15 @@ ___
 
 ### Current Projects
 
-1. _Referl_ - O2O Marketting Application (www.referl.in)
+1. _Do-It_ - A Todo-cum-Project Management Application
 
-2. _Portfolio_ - My personal portfolio website (https://amalnathm7.github.io)
+2. _Referl_ - O2O Marketting Application (www.referl.in)
 
 3. _Gmeet_ - Clone of Google Meet
 
 #### Status
 
+![CSS](https://img.shields.io/badge/Do-It-95-green)
 ![CSS](https://img.shields.io/badge/Referl-90-green)
-![CSS](https://img.shields.io/badge/Portfolio-95-green)
 ![CSS](https://img.shields.io/badge/Gmeet-90-green)
 ___
