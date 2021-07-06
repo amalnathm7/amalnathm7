@@ -91,7 +91,7 @@ ___
 
 #### Status
 
-![CSS](https://img.shields.io/badge/Do-It-95-green)
+![CSS](https://img.shields.io/badge/Do It-95-green)
 ![CSS](https://img.shields.io/badge/Referl-90-green)
 ![CSS](https://img.shields.io/badge/Gmeet-90-green)
 ___
