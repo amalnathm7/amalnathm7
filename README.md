@@ -60,20 +60,23 @@ ___
 
 ### My Repositories
 
+<a href="https://github.com/amalnathm7/Do_it">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=do_it" />
+</a>
 <a href="https://github.com/amalnathm7/Google-Meet-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
-</a>
-<a href="https://github.com/amalnathm7/Memoir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
 </a>
 <a href="https://github.com/amalnathm7/Bmi_calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bmi_calculator" />
 </a>
-<a href="https://github.com/amalnathm7/Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=calculator" />
+<a href="https://github.com/amalnathm7/Memoir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
 </a>
 <a href="https://github.com/amalnathm7/Bingo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bingo" />
+</a>
+<a href="https://github.com/amalnathm7/Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=calculator" />
 </a>
 <a href="https://github.com/amalnathm7/amalnathm7.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=amalnathm7.github.io" />
@@ -91,7 +94,7 @@ ___
 
 #### Progress
 
-![CSS](https://img.shields.io/badge/Do_It-95-green)
-![CSS](https://img.shields.io/badge/Referl-90-green)
-![CSS](https://img.shields.io/badge/Gmeet-90-green)
+![CSS](https://img.shields.io/badge/Do_It-99-green)
+![CSS](https://img.shields.io/badge/Referl-70-orange)
+![CSS](https://img.shields.io/badge/Gmeet-95-green)
 ___
