@@ -60,6 +60,9 @@ ___
 
 ### My Repositories
 
+<a href="https://github.com/amalnathm7/Quark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=quark" />
+</a>
 <a href="https://github.com/amalnathm7/Do_it">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=do_it" />
 </a>
@@ -86,15 +89,9 @@ ___
 
 ### Current Projects
 
-1. _Do-It_ - A Todo-cum-Project Management Application
-
-2. _Referl_ - O2O Marketting Application (www.referl.in)
-
-3. _Gmeet_ - Clone of Google Meet
+1. _Referl_ - O2O Marketting Application (www.referl.in)
 
 #### Progress
 
-![CSS](https://img.shields.io/badge/Do_It-99-green)
 ![CSS](https://img.shields.io/badge/Referl-70-orange)
-![CSS](https://img.shields.io/badge/Gmeet-95-green)
 ___
