@@ -89,14 +89,17 @@ ___
 
 ### Current Projects
 
-1. _Hestia 22_ - Official Hestia'22 Mobile Application (www.hestialive.com)
-2. _Canadian Fax_ - Fax Sending Application (www.canadianfax.com)
+1. _Canadian Fax_ - Fax Sending Application (www.canadianfax.com)
+2. _Hestia 22_ - Official Hestia'22 Mobile Application (www.hestialive.com)
 3. _Sports App_ - Coming soon...
 4. _App for the blind_ - Coming soon...
 5. _Referl_ - Coming soon...
 
 #### Progress
 
-![CSS](https://img.shields.io/badge/Hestia-0-grey)
 ![CSS](https://img.shields.io/badge/CanadianFax-95-green)
+![CSS](https://img.shields.io/badge/Hestia-10-grey)
+![CSS](https://img.shields.io/badge/SportsApp-0-grey)
+![CSS](https://img.shields.io/badge/AppForTheBlind-0-grey)
+![CSS](https://img.shields.io/badge/Referl-0-grey)
 ___
