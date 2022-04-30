@@ -98,5 +98,5 @@ ___
 #### Progress
 
 ![CSS](https://img.shields.io/badge/Hestia-0-grey)
-![CSS](https://img.shields.io/badge/Canadian Fax-95-green)
+![CSS](https://img.shields.io/badge/CanadianFax-95-green)
 ___
