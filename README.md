@@ -9,6 +9,7 @@ _Ping me at:_
 <a href="https://www.linkedin.com/in/amal-nath-m-1ba12a192/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=25px height=25px></a>
 <a href="https://twitter.com/amalnathm7"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=25px height=25px></a>
 <a href="https://www.instagram.com/_a_m_a_l_n_a_t_h_/"><img src = "https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png" width=25px height=25px></a>
+<a href="https://wa.me/917907587380"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width=25px height=25px></a>
 ___
 
 ### Github Stats
@@ -98,8 +99,8 @@ ___
 #### Progress
 
 ![CSS](https://img.shields.io/badge/CanadianFax-95-green)
-![CSS](https://img.shields.io/badge/Hestia-10-grey)
-![CSS](https://img.shields.io/badge/SportsApp-0-grey)
-![CSS](https://img.shields.io/badge/AppForTheBlind-0-grey)
-![CSS](https://img.shields.io/badge/Referl-0-grey)
+![CSS](https://img.shields.io/badge/Hestia-10-black)
+![CSS](https://img.shields.io/badge/SportsApp-0-black)
+![CSS](https://img.shields.io/badge/AppForTheBlind-0-black)
+![CSS](https://img.shields.io/badge/Referl-0-black)
 ___
