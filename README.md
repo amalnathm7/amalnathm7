@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-_My name is Amal Nath M and I'm a CSE undergraduate at TKM College of Engineering, Kollam. I like to code and design solutions to real world problems. I'm currently a Flutter Developer at www.guzty.com. I've also made some projects in Android, JavaFX, etc. Kindly ping me if you want to know more about me._ 😉
+_My name is Amal Nath M and I'm a CSE undergraduate at TKM College of Engineering, Kollam. I like to code and design solutions to real world problems.. I've also made some projects in Android, JavaFX, etc. Kindly ping me if you want to know more about me._ 😉
 
 _My portfolio:_ https://amalnathm7.github.io
 
