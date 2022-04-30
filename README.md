@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-_My name is Amal Nath M and I'm a CSE undergraduate at TKM College of Engineering, Kollam. I like to code and design solutions to real world problems.. I've also made some projects in Android, JavaFX, etc. Kindly ping me if you want to know more about me._ 😉
+_I'm Amal Nath, a CSE undergraduate at TKM College of Engineering, Kollam. At times, you can find me coding and other times, you can find me chilling (⚽,🎮,🏊‍♀️). I'd love to come up with groundbreaking solutions to real world problems but I haven't yet (Just give me some time 😁). For now, I've made some projects in Flutter, Android (Java), JavaFX, etc. Ping me if you want to know more about me._ 😉
 
 _My portfolio:_ https://amalnathm7.github.io
 
@@ -89,9 +89,14 @@ ___
 
 ### Current Projects
 
-1. _Referl_ - O2O Marketting Application (www.referl.in)
+1. _Hestia 22_ - Official Hestia'22 Mobile Application (www.hestialive.com)
+2. _Canadian Fax_ - Fax Sending Application (www.canadianfax.com)
+3. _Sports App_ - Coming soon...
+4. _App for the blind_ - Coming soon...
+5. _Referl_ - Coming soon...
 
 #### Progress
 
-![CSS](https://img.shields.io/badge/Referl-70-orange)
+![CSS](https://img.shields.io/badge/Hestia-0-grey)
+![CSS](https://img.shields.io/badge/Canadian Fax-95-green)
 ___
