@@ -55,8 +55,8 @@ ___
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-fff?&logo=Java&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=000)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
 ___
 
@@ -65,8 +65,8 @@ ___
 <a href="https://github.com/amalnathm7/Quark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=quark" />
 </a>
-<a href="https://github.com/amalnathm7/Do_it">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=do_it" />
+<a href="https://github.com/amalnathm7/Do-it">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=do-it" />
 </a>
 <a href="https://github.com/amalnathm7/Google-Meet-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
