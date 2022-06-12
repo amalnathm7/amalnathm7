@@ -43,8 +43,8 @@ ___
 
 ![CSS](https://img.shields.io/badge/C-EXPERT-orange)
 ![CSS](https://img.shields.io/badge/JAVA-EXPERT-orange)
+![CSS](https://img.shields.io/badge/DART-EXPERT-orange)
 ![CSS](https://img.shields.io/badge/C++-INTERMEDIATE-blue)
-![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
 ![CSS](https://img.shields.io/badge/HTML-BEGINNER-green)
 ![CSS](https://img.shields.io/badge/CSS-BEGINNER-green)
@@ -55,6 +55,7 @@ ___
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-fff?&logo=Java&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase&logoColor=000)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
 ___
