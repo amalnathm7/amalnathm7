@@ -93,15 +93,15 @@ ___
 
 1. _Canadian Fax_ - Fax Sending Application (www.canadianfax.com)
 2. _Hestia 22_ - Official Hestia'22 Mobile Application (www.hestialive.com)
-3. _Sportsoscape_ - Coming soon...
-4. _Illusion_ - Coming soon...
+3. _Illusion_ - Coming soon...
+4. _Sportsoscape_ - Coming soon...
 5. _Referl_ - Coming soon...
 
 #### Progress
 
 ![CSS](https://img.shields.io/badge/CanadianFax-95-green)
 ![CSS](https://img.shields.io/badge/Hestia-99-green)
+![CSS](https://img.shields.io/badge/Illusion-40-orange)
 ![CSS](https://img.shields.io/badge/Sportoscape-0-black)
-![CSS](https://img.shields.io/badge/Illusion-0-black)
 ![CSS](https://img.shields.io/badge/Referl-0-black)
 ___
