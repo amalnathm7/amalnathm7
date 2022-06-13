@@ -60,7 +60,7 @@ ___
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
 ___
 
-### My Repositories
+### Projects
 
 <a href="https://github.com/amalnathm7/hestia22">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=hestia22" />
@@ -98,7 +98,7 @@ ___
 
 ___
 
-### Current Projects
+### Ongoing Projects
 
 1. _Canadian Fax_ - Fax Sending Application (https://play.google.com/store/apps/details?id=com.canadian.fax, https://apps.apple.com/us/app/canadianfax/id1620488890)
 2. _Hestia 22_ - Official Hestia'22 Mobile Application (https://play.google.com/store/apps/details?id=com.tkmce.hestia22)
@@ -108,7 +108,7 @@ ___
 
 #### Progress
 
-![CSS](https://img.shields.io/badge/CanadianFax-95-green)
+![CSS](https://img.shields.io/badge/CanadianFax-99-green)
 ![CSS](https://img.shields.io/badge/Hestia-99-green)
 ![CSS](https://img.shields.io/badge/Illusion-40-orange)
 ![CSS](https://img.shields.io/badge/Sportoscape-0-black)
