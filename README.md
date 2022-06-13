@@ -14,19 +14,13 @@ ___
 
 ### Github Stats
 
-![](https://komarev.com/ghpvc/?username=amalnathm7&color=010040&style=flat-square)
-![](https://img.shields.io/github/followers/amalnathm7?style=flat-square)
-![](https://img.shields.io/github/stars/amalnathm7?style=flat-square)
+![Stats](https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalnathm7&show_icons=true&theme=radical" />
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=amalnathm7&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/amalnathm7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)
 
-___
-
-### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amalnathm7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=amalnathm7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
 
@@ -60,7 +54,7 @@ ___
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
 ___
 
-### Projects
+### Public Projects
 
 <a href="https://github.com/amalnathm7/hestia22">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=hestia22" />
@@ -98,19 +92,9 @@ ___
 
 ___
 
-### Ongoing Projects
+### Private Projects
 
-1. _Canadian Fax_ - Fax Sending Application (https://play.google.com/store/apps/details?id=com.canadian.fax, https://apps.apple.com/us/app/canadianfax/id1620488890)
-2. _Hestia 22_ - Official Hestia'22 Mobile Application (https://play.google.com/store/apps/details?id=com.tkmce.hestia22)
-3. _Illusion_ - Coming soon...
-4. _Sportsoscape_ - Coming soon...
-5. _Referl_ - Coming soon...
-
-#### Progress
-
-![CSS](https://img.shields.io/badge/CanadianFax-99-green)
-![CSS](https://img.shields.io/badge/Hestia-99-green)
-![CSS](https://img.shields.io/badge/Illusion-40-orange)
-![CSS](https://img.shields.io/badge/Sportoscape-0-black)
-![CSS](https://img.shields.io/badge/Referl-0-black)
+1. _Canadian Fax_ - Fax Sending Application <br> <br> <a href="https://play.google.com/store/apps/details?id=com.canadian.fax"> <img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> </a> <a href="https://apps.apple.com/us/app/canadianfax/id1620488890"> <img align="center" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> </a> <br> <br>
+2. _Sportsoscape_ - Coming soon... <br> <br>
+3. _Referl_ - Coming soon...
 ___
