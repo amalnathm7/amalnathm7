@@ -62,25 +62,31 @@ ___
 
 ### My Repositories
 
-<a href="https://github.com/amalnathm7/Quark">
+<a href="https://github.com/amalnathm7/hestia22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=hestia22" />
+</a>
+<a href="https://github.com/amalnathm7/illusion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=illusion" />
+</a>
+<a href="https://github.com/amalnathm7/quark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=quark" />
 </a>
-<a href="https://github.com/amalnathm7/Do-it">
+<a href="https://github.com/amalnathm7/do-it">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=do-it" />
 </a>
-<a href="https://github.com/amalnathm7/Google-Meet-Clone">
+<a href="https://github.com/amalnathm7/google-meet-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
 </a>
-<a href="https://github.com/amalnathm7/Bmi_calculator">
+<a href="https://github.com/amalnathm7/bmi_calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bmi_calculator" />
 </a>
-<a href="https://github.com/amalnathm7/Memoir">
+<a href="https://github.com/amalnathm7/memoir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
 </a>
-<a href="https://github.com/amalnathm7/Bingo">
+<a href="https://github.com/amalnathm7/bingo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bingo" />
 </a>
-<a href="https://github.com/amalnathm7/Calculator">
+<a href="https://github.com/amalnathm7/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=calculator" />
 </a>
 <a href="https://github.com/amalnathm7/amalnathm7.github.io">
