@@ -77,14 +77,14 @@ ___
 <a href="https://github.com/amalnathm7/google-meet-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=google-meet-clone" />
 </a>
-<a href="https://github.com/amalnathm7/bmi_calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bmi_calculator" />
-</a>
 <a href="https://github.com/amalnathm7/memoir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=memoir" />
 </a>
 <a href="https://github.com/amalnathm7/bingo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bingo" />
+</a>
+<a href="https://github.com/amalnathm7/bmi_calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=bmi_calculator" />
 </a>
 <a href="https://github.com/amalnathm7/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=calculator" />
