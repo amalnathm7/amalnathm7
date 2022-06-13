@@ -91,8 +91,8 @@ ___
 
 ### Current Projects
 
-1. _Canadian Fax_ - Fax Sending Application (www.canadianfax.com)
-2. _Hestia 22_ - Official Hestia'22 Mobile Application (www.hestialive.com)
+1. _Canadian Fax_ - Fax Sending Application (https://play.google.com/store/apps/details?id=com.canadian.fax, https://apps.apple.com/us/app/canadianfax/id1620488890)
+2. _Hestia 22_ - Official Hestia'22 Mobile Application (https://play.google.com/store/apps/details?id=com.tkmce.hestia22)
 3. _Illusion_ - Coming soon...
 4. _Sportsoscape_ - Coming soon...
 5. _Referl_ - Coming soon...
