@@ -68,6 +68,9 @@ ___
 <a href="https://github.com/amalnathm7/illusion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=illusion" />
 </a>
+<a href="https://github.com/amalnathm7/votr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=votr" />
+</a>
 <a href="https://github.com/amalnathm7/quark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalnathm7&&theme=radical&repo=quark" />
 </a>
