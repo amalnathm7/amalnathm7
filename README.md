@@ -20,6 +20,10 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalnathm7&layout=compact&theme=radical&cache_seconds=86400)
 
+___
+
+### Trophies
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=amalnathm7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
