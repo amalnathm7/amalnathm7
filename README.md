@@ -2,7 +2,7 @@
 
 _I'm Amal Nath, a CSE undergraduate at TKM College of Engineering, Kollam. At times, you can find me coding and other times, you can find me chilling (⚽🎮🏊‍♀️). I'd love to come up with groundbreaking solutions to unsolvable problems but I haven't yet (Just give me some time 😁). For now, I've made some projects in Flutter, Android (Java), JavaFX, etc. Ping me if you want to know more about me._ 😉
 
-_My portfolio:_ https://amalnathm7.github.io (Coming up with a better one soon enough ⚡)
+_My portfolio:_ https://amalnathm7.github.io
 
 _Ping me at:_
 
