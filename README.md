@@ -85,8 +85,6 @@ ___
 ### Private Projects
 
 1. _Canadian Fax_ - Fax Sending Application <br> <br> <a href="https://play.google.com/store/apps/details?id=com.canadian.fax"> <img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> </a> <a href="https://apps.apple.com/us/app/canadianfax/id1620488890"> <img align="center" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> </a> <br> <br>
-2. _Sportsoscape_ - Coming soon... <br> <br>
-3. _Referl_ - Coming soon...
 
 ___
 
