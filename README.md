@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D5616AQFV-ZD9nb0T4w/profile-displaybackgroundimage-shrink_350_1400/0/1693846084928?e=1699488000&v=beta&t=PquVAztWy-JrpJi22kn-UTq24bvYBU5fbvlU64qvBow" />
+
 ### Hey there 👋
 
 _I'm Amal Nath, an Associate Software Engineer at KeyValue Software Systems with a B.Tech (Honours) degree in Computer Science and Engineering from TKM College of Engineering, Kollam. At times, you can find me coding and other times, you can find me chilling (⚽🎮🏊‍♀️). I'd love to come up with groundbreaking solutions to unsolvable problems but I haven't yet (Just give me some time 😁). For now, I've made some projects in Flutter, Android (Java), JavaFX, etc. Ping me if you want to know more about me._ 😉
